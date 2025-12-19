@@ -22,5 +22,8 @@ The readFile() method demonstrates how to read data from a text file. It utilize
 
 The modifyFile() method illustrates how to modify existing file content without deleting previous data. This method appends new text to the file by using FileWriter in append mode. Appending is particularly useful in applications such as maintaining logs or adding new records to a file. The method also ensures that a new line is added before inserting additional content, maintaining the readability of the file.
 
+#OUTPUT
+
+<img width="1200" height="308" alt="Image" src="https://github.com/user-attachments/assets/8e9d33c8-9ec8-4a5d-ac14-35d9e7dc742e" />
  
 
